@@ -1,12 +1,12 @@
 <div align="center" id="top"> 
-  <img src="./.github/app.gif" alt="Sample" />
+  <img src="./.github/app.gif" alt="sample" />
 
   &#xa0;
 
   <!-- <a href="https://sample.netlify.app">Demo</a> -->
 </div>
 
-<h1 align="center">Sample</h1>
+<h1 align="center">Login-formik</h1>
 
 <p align="center">
   <img alt="Github top language" src="https://img.shields.io/github/languages/top/diegoamieva/sample?color=56BEB8">
