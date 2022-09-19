@@ -1,33 +1,33 @@
 <div align="center" id="top"> 
-  <img src="./.github/app.gif" alt="sample" />
+  <img src="./.github/app.gif" alt="Login-formik" />
 
   &#xa0;
 
-  <!-- <a href="https://sample.netlify.app">Demo</a> -->
+  <!-- <a href="https://Login-formik.netlify.app">Demo</a> -->
 </div>
 
 <h1 align="center">Login-formik</h1>
 
 <p align="center">
-  <img alt="Github top language" src="https://img.shields.io/github/languages/top/diegoamieva/sample?color=56BEB8">
+  <img alt="Github top language" src="https://img.shields.io/github/languages/top/diegoamieva/Login-formik?color=56BEB8">
 
-  <img alt="Github language count" src="https://img.shields.io/github/languages/count/diegoamieva/sample?color=56BEB8">
+  <img alt="Github language count" src="https://img.shields.io/github/languages/count/diegoamieva/Login-formik?color=56BEB8">
 
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/diegoamieva/sample?color=56BEB8">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/diegoamieva/Login-formik?color=56BEB8">
 
-  <img alt="License" src="https://img.shields.io/github/license/diegoamieva/sample?color=56BEB8">
+  <img alt="License" src="https://img.shields.io/github/license/diegoamieva/Login-formik?color=56BEB8">
 
-  <!-- <img alt="Github issues" src="https://img.shields.io/github/issues/diegoamieva/sample?color=56BEB8" /> -->
+  <!-- <img alt="Github issues" src="https://img.shields.io/github/issues/diegoamieva/Login-formik?color=56BEB8" /> -->
 
-  <!-- <img alt="Github forks" src="https://img.shields.io/github/forks/diegoamieva/sample?color=56BEB8" /> -->
+  <!-- <img alt="Github forks" src="https://img.shields.io/github/forks/diegoamieva/Login-formik?color=56BEB8" /> -->
 
-  <!-- <img alt="Github stars" src="https://img.shields.io/github/stars/diegoamieva/sample?color=56BEB8" /> -->
+  <!-- <img alt="Github stars" src="https://img.shields.io/github/stars/diegoamieva/Login-formik?color=56BEB8" /> -->
 </p>
 
 <!-- Status -->
 
 <!-- <h4 align="center"> 
-	🚧  Sample 🚀 Under construction...  🚧
+	🚧  Login-formik 🚀 Under construction...  🚧
 </h4> 
 
 <hr> -->
@@ -74,10 +74,10 @@ Before starting :checkered_flag:, you need to have [Git](https://git-scm.com) an
 
 ```bash
 # Clone this project
-$ git clone https://github.com/diegoamieva/sample
+$ git clone https://github.com/diegoamieva/Login-formik
 
 # Access
-$ cd sample
+$ cd Login-formik
 
 # Install dependencies
 $ yarn
