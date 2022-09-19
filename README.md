@@ -34,7 +34,7 @@
 
 <p align="center">
   <a href="#dart-about">About</a> &#xa0; | &#xa0; 
-  <a href="#sparkles-features">Features</a> &#xa0; | &#xa0;
+  <a href="#sparkles-roadmap">Roadmap</a> &#xa0; | &#xa0;
   <a href="#rocket-technologies">Technologies</a> &#xa0; | &#xa0;
   <a href="#white_check_mark-requirements">Requirements</a> &#xa0; | &#xa0;
   <a href="#checkered_flag-starting">Starting</a> &#xa0; | &#xa0;
@@ -46,23 +46,25 @@
 
 ## :dart: About ##
 
-Describe your project
+This repository contains the exercise of week 13 of MITxPRO Professional Certificate in Programming: Full-Stack Development with MERN. This program generates n numbers of Pacmans and move them around the window.
 
-## :sparkles: Features ##
+## :sparkles: Roadmap ##
 
-:heavy_check_mark: Feature 1;\
-:heavy_check_mark: Feature 2;\
-:heavy_check_mark: Feature 3;
+FUTURE IMPROVEMENTS\
+:heavy_check_mark: Improvement 1: Add style to input box.\
+:heavy_check_mark: Improvement 2:Add background style.\
+:heavy_check_mark: Improvement 3: Add button style.
 
 ## :rocket: Technologies ##
 
 The following tools were used in this project:
 
-- [Expo](https://expo.io/)
+- HTML
+- CSS
+- Javascript
 - [Node.js](https://nodejs.org/en/)
 - [React](https://pt-br.reactjs.org/)
 - [React Native](https://reactnative.dev/)
-- [TypeScript](https://www.typescriptlang.org/)
 
 ## :white_check_mark: Requirements ##
 
